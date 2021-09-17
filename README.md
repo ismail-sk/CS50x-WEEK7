@@ -2,7 +2,7 @@
 (this README.md files may not be standart style. please be understanding, beacuse i am not started yet "git/github use course")
 
 ## Why i made this repository?
-This repository made for show "what i do on week 7"
+This repository made for show "what I did on week 7"
 
 ### Week 7 is a lecture in CS50x course
 (for full week7 and all other lectures: https://cs50.harvard.edu/x/2021/weeks/7/)
