@@ -1,5 +1,5 @@
 # CS50-WEEK7
-(this read.md file may not be standart style. please be understanding, beacuse i am not started yet "git/github use course")
+(this README.md file may not be standart style. please be understanding, beacuse i am not started yet "git/github use course")
 
 ## Why i made this repository?
 This repository made for show "what i do on week 7"
