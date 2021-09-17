@@ -128,7 +128,7 @@ Q13:In 13.sql, write a SQL query to list the names of all people who starred in 
 - There may be multiple people named Kevin Bacon in the database. Be sure to only select the Kevin Bacon born in 1958.
 - Kevin Bacon himself should not be included in the resulting list.
 
-A13: ```SELECT people.name FROM people
+A13: ``` SELECT people.name FROM people
 JOIN stars ON stars.person_id = people.id
 WHERE movie_id IN (SELECT movie_id FROM people
 JOIN stars ON stars.person_id = people.id
@@ -137,4 +137,4 @@ WHERE name IS "Kevin Bacon" AND birth = 1958)
 EXCEPT
 SELECT people.name FROM people
 JOIN stars ON stars.person_id = people.id
-WHERE name IS "Kevin Bacon" AND birth = 1958;```
+WHERE name IS "Kevin Bacon" AND birth = 1958; ```
