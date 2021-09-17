@@ -33,7 +33,7 @@ Q1: In 1.sql,
 write a SQL query to list the names of all songs in the database.
 - Your query should output a table with a single column for the name of each song.
 
-A1: https://github.com/ismail-sk/CS50-WEEK7/blob/main/lab7/1.sql
+A1: https://github.com/ismail-sk/CS50-WEEK7/blob/main/lab7/1.sql https://github.com/ismail-sk/CS50-WEEK7/blob/42cf489365782980ef6e755e7c1461f270e7372d/lab7/1.sql
 
 Q2: In 2.sql,
 write a SQL query to list the names of all songs in increasing order of tempo.
