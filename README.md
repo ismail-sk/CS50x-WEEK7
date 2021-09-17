@@ -10,7 +10,7 @@ This repository made for show "what I did on week 7"
 ### More information about CS50 courses
 CS50 courses, An institution that gives educate and certificate on computer science branches from the university of Harvard.
 
-(For other CS50 courses: https://www.edx.org/search?q=cs50&tab=course)
+(For all CS50 courses: https://www.edx.org/search?q=cs50&tab=course)
 
 
 ## What is in this repository? and how you can understund?
