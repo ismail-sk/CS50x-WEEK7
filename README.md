@@ -22,15 +22,4 @@ if you are not have time for look everything, you can look only "pset2: Fiftyvil
 
 
 ## What i do?
-### 
-
-
-###
-
-A1: 
-
-###
-
-
-
-you can reach lecture with this link:
+please look README.md files in relevant dirs
