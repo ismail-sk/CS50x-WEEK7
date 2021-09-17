@@ -5,7 +5,7 @@ https://cs50.harvard.edu/x/2021/psets/7/movies/
 
 Emply files(used database is into this zip): https://cdn.cs50.net/2020/fall/psets/7/movies/movies.zip
 
-Q1:In 1.sql, write a SQL query to list the titles of all movies released in 2008.
+### Q1:In 1.sql, write a SQL query to list the titles of all movies released in 2008.
 - Your query should output a table with a single column for the title of each movie.
 
 A1: ```SELECT title FROM movies WHERE year = 2008;```
