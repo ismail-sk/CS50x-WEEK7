@@ -2,7 +2,7 @@
 The instructions of lab:
 https://cs50.harvard.edu/x/2021/labs/7/
 
-Emply files:
+Emply files(used database is into this zip):
 https://cdn.cs50.net/2020/fall/psets/7/fiftyville/fiftyville.zip
 
 Q1: In 1.sql,
